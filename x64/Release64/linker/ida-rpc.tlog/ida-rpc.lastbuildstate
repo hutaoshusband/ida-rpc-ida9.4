@@ -1,2 +1,2 @@
-PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.44.35207:TargetPlatformVersion=10.0.26100.0:VcpkgTriplet=x64-windows:
-Release64|x64|C:\Users\HUTAOSHUSBAND\source\repos\ida-rpc-ida9.1\|
+PlatformToolSet=v145:VCToolArchitecture=Native32Bit:VCToolsVersion=14.51.36231:VCServicingVersionATL=14.51.36244:VCServicingVersionCrtHeaders=14.51.36244:VCServicingVersionCompilers=14.51.36257:TargetPlatformVersion=10.0.26100.0:
+Release64|x64|C:\Users\columbina\Documents\GitHub\ida-rpc-ida9.1\|
